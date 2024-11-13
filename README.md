@@ -1,1 +1,1 @@
-# lista-adaptada-android
+Arquivo APK da Atividade: Criando projeto de Lista Adaptada.
